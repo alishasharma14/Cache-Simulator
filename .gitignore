@@ -11,3 +11,6 @@ __pycache__/
 
 # archives
 *.tar
+
+#trace files (too large for GitHub)
+data/trace*.txt
