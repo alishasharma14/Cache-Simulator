@@ -1,0 +1,10 @@
+Prefetch 0
+Memory reads: 13
+Memory writes: 0
+Cache hits: 2
+Cache misses: 13
+Prefetch 1
+Memory reads: 21
+Memory writes: 0
+Cache hits: 4
+Cache misses: 11

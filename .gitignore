@@ -1,0 +1,13 @@
+# binaries
+cachesim
+*.o
+
+# build artifacts
+build/
+
+# python junk
+__pycache__/
+*.pyc
+
+# archives
+*.tar
