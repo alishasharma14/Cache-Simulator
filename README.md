@@ -38,6 +38,8 @@ Reported metrics include:
 ## Usage 
 Compile the simulator using the provided Makefile
 Run the simulator with the following arguments: 
+
+
 ```./cachesim <cache_size> <associativity> <policy> <block_size> <trace_file>```
 
 ```./cachesim 128 assoc:2 lru 16 trace.txt```
