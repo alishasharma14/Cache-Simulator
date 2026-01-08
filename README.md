@@ -8,6 +8,11 @@ A configurable cache simulator written in C that models direct-mapped, set-assoc
 - Optional next-block prefetching
 - Tracks cache hits, misses, memory reads, and writes
 
+## Notes
+This project was originally developed as part of a computer architecture course.
+All course-specific autograding and trace files have been removed to present a clean,
+standalone implementation.
+
 ## Build
 ```bash
 make
